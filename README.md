@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Condebasura
+- 👋 Hi, I’m Pablo Zabala alias @Condebasura
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning programming
 - 💞️ I’m looking to collaborate on programming stuff
