@@ -41,3 +41,9 @@ Soy **Desarrollador Web Fullstack**, con experiencia en el desarrollo de aplicac
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
 ![Render](https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+
+---
+
+### Contacto ###
+
+Email: could_2032@outlook.com
