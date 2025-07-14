@@ -20,7 +20,7 @@ Soy **Desarrollador Web Fullstack**, con experiencia en el desarrollo de aplicac
 
 ### 🧰 Tecnologías que uso
 
-```bash
+
 🖥️ Frontend:   HTML | CSS | JavaScript | Pug
 🛠️ Backend:    Node.js | Express | SQLite3
 🔐 Autenticación: JWT | Cookies
